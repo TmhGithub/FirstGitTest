@@ -1,0 +1,5 @@
+# ignore git commit content
+*.iml
+*.idea
+out/
+bin/
