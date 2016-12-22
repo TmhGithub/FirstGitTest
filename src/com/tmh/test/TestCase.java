@@ -6,5 +6,6 @@ package com.tmh.test;
 public class TestCase {
     public static void main(String [] args){
         System.out.println("Git start coding");
+        System.out.println("Git continue coding");
     }
 }
